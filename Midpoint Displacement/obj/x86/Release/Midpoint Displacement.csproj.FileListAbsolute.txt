@@ -1,0 +1,8 @@
+C:\Users\IceFrogger1313\Documents\Visual Studio 2010\Projects\Midpoint Displacement\Midpoint Displacement\bin\Release\Midpoint Displacement.exe
+C:\Users\IceFrogger1313\Documents\Visual Studio 2010\Projects\Midpoint Displacement\Midpoint Displacement\bin\Release\Midpoint Displacement.pdb
+C:\Users\IceFrogger1313\Documents\Visual Studio 2010\Projects\Midpoint Displacement\Midpoint Displacement\obj\x86\Release\Midpoint_Displacement.Form1.resources
+C:\Users\IceFrogger1313\Documents\Visual Studio 2010\Projects\Midpoint Displacement\Midpoint Displacement\obj\x86\Release\Midpoint_Displacement.Properties.Resources.resources
+C:\Users\IceFrogger1313\Documents\Visual Studio 2010\Projects\Midpoint Displacement\Midpoint Displacement\obj\x86\Release\Midpoint Displacement.csproj.GenerateResource.Cache
+C:\Users\IceFrogger1313\Documents\Visual Studio 2010\Projects\Midpoint Displacement\Midpoint Displacement\obj\x86\Release\Midpoint Displacement.exe
+C:\Users\IceFrogger1313\Documents\Visual Studio 2010\Projects\Midpoint Displacement\Midpoint Displacement\obj\x86\Release\Midpoint Displacement.pdb
+C:\Users\IceFrogger1313\documents\visual studio 2010\Projects\Midpoint Displacement\Midpoint Displacement\obj\x86\Release\Midpoint Displacement.csprojResolveAssemblyReference.cache

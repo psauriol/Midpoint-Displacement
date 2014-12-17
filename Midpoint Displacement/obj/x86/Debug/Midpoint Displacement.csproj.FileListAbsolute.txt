@@ -1,0 +1,15 @@
+C:\Users\IceFrogger1313\AppData\Local\Temporary Projects\Midpoint Displacement\bin\Debug\Midpoint Displacement.exe
+C:\Users\IceFrogger1313\AppData\Local\Temporary Projects\Midpoint Displacement\bin\Debug\Midpoint Displacement.pdb
+C:\Users\IceFrogger1313\AppData\Local\Temporary Projects\Midpoint Displacement\obj\x86\Debug\Midpoint_Displacement.Form1.resources
+C:\Users\IceFrogger1313\AppData\Local\Temporary Projects\Midpoint Displacement\obj\x86\Debug\Midpoint_Displacement.Properties.Resources.resources
+C:\Users\IceFrogger1313\AppData\Local\Temporary Projects\Midpoint Displacement\obj\x86\Debug\Midpoint Displacement.csproj.GenerateResource.Cache
+C:\Users\IceFrogger1313\AppData\Local\Temporary Projects\Midpoint Displacement\obj\x86\Debug\Midpoint Displacement.exe
+C:\Users\IceFrogger1313\AppData\Local\Temporary Projects\Midpoint Displacement\obj\x86\Debug\Midpoint Displacement.pdb
+C:\Users\IceFrogger1313\documents\visual studio 2010\Projects\Midpoint Displacement\Midpoint Displacement\obj\x86\Debug\Midpoint Displacement.exe
+C:\Users\IceFrogger1313\documents\visual studio 2010\Projects\Midpoint Displacement\Midpoint Displacement\obj\x86\Debug\Midpoint Displacement.pdb
+C:\Users\IceFrogger1313\documents\visual studio 2010\Projects\Midpoint Displacement\Midpoint Displacement\bin\Debug\Midpoint Displacement.exe
+C:\Users\IceFrogger1313\documents\visual studio 2010\Projects\Midpoint Displacement\Midpoint Displacement\bin\Debug\Midpoint Displacement.pdb
+C:\Users\IceFrogger1313\documents\visual studio 2010\Projects\Midpoint Displacement\Midpoint Displacement\obj\x86\Debug\Midpoint_Displacement.Form1.resources
+C:\Users\IceFrogger1313\documents\visual studio 2010\Projects\Midpoint Displacement\Midpoint Displacement\obj\x86\Debug\Midpoint_Displacement.Properties.Resources.resources
+C:\Users\IceFrogger1313\documents\visual studio 2010\Projects\Midpoint Displacement\Midpoint Displacement\obj\x86\Debug\Midpoint Displacement.csproj.GenerateResource.Cache
+C:\Users\IceFrogger1313\Documents\Visual Studio 2010\Projects\Midpoint Displacement\Midpoint Displacement\obj\x86\Debug\Midpoint Displacement.csprojResolveAssemblyReference.cache
